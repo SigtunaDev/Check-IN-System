@@ -1,0 +1,19 @@
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Check-IN System.exe.config
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Check-IN System.csproj.ResolveComReference.cache
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Check-IN System.exe
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Check-IN System.pdb
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainPage.resources
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NameTagUpload.resources
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginPage.resources
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewAccount.resources
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Register.resources
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Loading.resources
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutCoder.resources
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NameTagExample.resources
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form8.resources
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChatSystem.resources
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Check-IN System.csproj.GenerateResource.Cache
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Check-IN System.exe
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Check-IN System.pdb
+C:\Users\polic\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Check-IN System.csprojResolveAssemblyReference.cache
